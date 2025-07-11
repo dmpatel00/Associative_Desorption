@@ -1,0 +1,1 @@
+["minimize_surf", {"__tb_implicit__": [["surfaces/init", {"__tb_type__": "ref", "index": [], "name": "surfaces/init"}]], "calculator": {"kpts": {"size": [4, 3, 1]}, "mode": {"ecut": 500, "name": "pw"}, "txt": "gpaw.txt", "xc": "BEEF-vdW"}, "surface": {"__tb_type__": "ref", "index": [], "name": "surfaces/BEEF-Cu/surface"}}]

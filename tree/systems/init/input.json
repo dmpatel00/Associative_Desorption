@@ -1,0 +1,1 @@
+["parametrize_materials_workflow", {"__tb_result_tasks__": {"symbols": "*/atoms"}, "calculator": {"kpts": {"size": [8, 8, 8]}, "mode": {"ecut": 500, "name": "pw"}, "txt": "gpaw.txt", "xc": "BEEF-vdW"}}]

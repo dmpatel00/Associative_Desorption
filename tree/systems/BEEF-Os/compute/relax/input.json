@@ -1,0 +1,1 @@
+["optimize_cell", {"__tb_implicit__": [["systems/init", {"__tb_type__": "ref", "index": [], "name": "systems/init"}]], "atoms": {"__tb_type__": "ref", "index": [], "name": "systems/BEEF-Os/atoms"}, "calculator": {"kpts": {"size": [8, 8, 8]}, "mode": {"ecut": 500, "name": "pw"}, "txt": "gpaw.txt", "xc": "BEEF-vdW"}, "symbol": "Os"}]
